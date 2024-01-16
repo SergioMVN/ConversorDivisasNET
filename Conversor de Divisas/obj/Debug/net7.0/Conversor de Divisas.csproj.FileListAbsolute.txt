@@ -1,0 +1,30 @@
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\appsettings.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\Conversor de Divisas.staticwebassets.runtime.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\Conversor de Divisas.exe
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\Conversor de Divisas.deps.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\Conversor de Divisas.runtimeconfig.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\Conversor de Divisas.dll
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\bin\Debug\net7.0\Conversor de Divisas.pdb
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.RazorAssemblyInfo.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.RazorAssemblyInfo.cs
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\staticwebassets\msbuild.Conversor de Divisas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\staticwebassets\msbuild.build.Conversor de Divisas.props
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Conversor de Divisas.props
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Conversor de Divisas.props
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\scopedcss\bundle\Conversor de Divisas.styles.css
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\scopedcss\projectbundle\Conversor de Divisas.bundle.scp.css
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.dll
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\refint\Conversor de Divisas.dll
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.pdb
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\Conversor de Divisas.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Escritorio\Proyectos.net\Conversor de Divisas\Conversor de Divisas\obj\Debug\net7.0\ref\Conversor de Divisas.dll

@@ -1,0 +1,34 @@
+﻿@model Conversor_de_Divisas.Models.ConversionModels
+
+
+@{
+    ViewData["Title"] = "Convertidor de USD a CLP";
+}
+
+<link rel="stylesheet" href="~/css/Index.css" />
+
+
+
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+    <form method="post" asp-controller="Convertidor" asp-action="Convertir">
+        <div>
+            <p>Ingresa Monto</p>
+            <input type="text" required asp-for="Monto" />
+            <button type="submit">Convertir</button>
+        </div>
+    </form>
+
+
+    <form method="post" asp-controller="Convertidor" asp-action="Limpiar" formmethod="post">
+        <div>
+            <p>Resultado</p>
+            <input type="text" asp-for="Resultado" />
+            <button type="submit">Limpiar</button>
+        </div>
+    </form>
+
+
+</div>
+

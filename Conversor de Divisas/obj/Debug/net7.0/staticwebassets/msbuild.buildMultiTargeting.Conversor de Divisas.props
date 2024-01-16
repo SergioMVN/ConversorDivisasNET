@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Conversor de Divisas.props" />
+</Project>
